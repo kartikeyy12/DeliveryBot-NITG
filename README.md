@@ -13,7 +13,8 @@ The system operates entirely offline using a standalone network architecture, se
 
 **Full Demo Video:** [Google Drive Link](https://drive.google.com/file/d/1zHF1fIpplKEKeNxKaXLTZ_2-ds54X5HS/view?usp=sharing)
 **Detailed Project Report:** [Read PDF](docs/EC253_Project_Report.pdf)
-**Read the full hardware build log, component breakdown, and system architecture on [Hackster.io](https://www.hackster.io/kartikey-tiwari/deliverybot-nitg-autonomous-campus-rover-f235c5).
+
+Read the full hardware build log, component breakdown, and system architecture on [Hackster.io](https://www.hackster.io/kartikey-tiwari/deliverybot-nitg-autonomous-campus-rover-f235c5).
 
 ## ✨ Key Engineering Features
 * **Standalone Network Architecture:** The ESP32 operates in Access Point (AP) mode, hosting a local web server that allows users to dispatch the robot without an active internet connection.
